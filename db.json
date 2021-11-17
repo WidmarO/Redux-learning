@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jugo de Zanahoria",
+      "price": 25
+    },
+    {
+      "name": "Jugo de Naranja",
+      "price": "300",
+      "id": 3
+    },
+    {
+      "name": "Jugo de Fresa",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "Picanha",
+      "price": 250,
+      "id": 6
+    },
+    {
+      "name": "Chorizo",
+      "price": 11.5,
+      "id": 7
+    }
+  ]
+}
